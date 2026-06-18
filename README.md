@@ -3,7 +3,7 @@
 This project is an online learning platform made of two main parts:
 
 - **backend**: the API built with Laravel
-- **frontend**: the user interface built with React + Vite
+- **frontend**: the user interface built with React
 
 ---
 
